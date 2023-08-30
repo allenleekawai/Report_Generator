@@ -1,0 +1,7 @@
+c33isqt8
+
+TX_TPDR,3
+TX_MODQual,3
+TX_OBW,1
+TX_OBUE,11
+RX_NF,1
